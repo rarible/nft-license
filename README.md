@@ -1,4 +1,4 @@
-ABOUT THE RARIBLE NFT LICENSES
+# ABOUT THE RARIBLE NFT LICENSES
 
 These NFT Licenses were written by Gabriel Shapiro & Stuart Smolen with the support and collaboration of [Rarible](https://rarible.com) and are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). 
 
