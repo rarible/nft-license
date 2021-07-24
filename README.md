@@ -1,6 +1,6 @@
 # ABOUT THE RARIBLE NFT LICENSES
 
-These NFT Licenses were written by Gabriel Shapiro & Stuart Smolen with the support and collaboration of [Rarible](https://rarible.com) and are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). 
+These NFT Licenses were written by [Gabriel Shapiro](https://twitter.com/lex_node) & [Stuart Smolen](https://bsvlaw.com/team/stuart-smolen-partner/) with the support and collaboration of [Rarible](https://rarible.com) and are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). 
 
 We have taken note of recent discussions in the NFT community regarding intellectual property issues and guarantees of the uniqueness and long-term value of NFTs. Although there is no one-size-fits-all solution to how NFTs will be used, we believe in empowering our users to create digital collectibles designed to be *rare* and have lasting value. 
 
@@ -8,7 +8,7 @@ To that end, we are pleased to introduce version 1.0 of the Rarible Standard Col
 
 What follows is a partial summary of what we see as key features of the License, together with some notes about how we see the License fitting into NFT culture:
 
-* **The License and this announcement are not intended as legal advice.** The License is experimental, was prepared with attention to U.S. law only, and is predicated on a variety of stated and un-stated assumptions. **The License cannot be guaranteed to to be enforceable.** There is no attorney-client relationship between you and the drafters, and their interests may differ materially from yours. In the event that the License is used on an NFT platform such as Rarible, it is possible that the terms of service of such platform could conflict with the License, and the possible effects of such conflicts are complex and unpredictable. 
+* **The License and this announcement are not intended as legal advice.** The License is experimental, was prepared with attention to U.S. law only, and is predicated on a variety of stated and un-stated assumptions. **The License cannot be guaranteed to to be enforceable.** There is no attorney-client relationship between you and the drafters, and their interests may differ materially from yours. In the event that the License is used on an NFT platform such as Rarible, it is possible that the terms of service of such platform could conflict with the License, and the possible effects of such conflicts are complex and unpredictable. No guarantee is made of compatibility between these Licenses and Rarible's standard terms and conditions, and, in the event of any conflict, Rarible's standard terms and conditions will govern and prevail. 
 
 * The License is optional. Artists may 'bring their own license' or be silent on licensing terms (which may result in an implied license, or no license, or some other unpredictable legal arrangement, depending on local laws and a variety of factors). 
 
@@ -28,5 +28,3 @@ What follows is a partial summary of what we see as key features of the License,
     * In “Variant E” of the License—the “exclusive license” variant—the artist agrees not to grant further licenses to the image except tied to the original NFT or batch of NFTs. Thus, the effect of Variant E is similar for practical purposes (but not legally identical to) a transfer of ownership. 
     * In “Variant NE” of the License—the “non-exclusive license” variant—the artist makes no commitment not to engage in further licensing of the image; thus, under Variant NE, the artist could mint additional NFTs tied to the image, sell the image on t-shirts, and make other commercial and non-commercial licenses of the image. 
     * Thus, in theory, Collectibles sold under Variant E of the License should be considered more “rare” and potentially more valuable. 
-
-
