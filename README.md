@@ -2,6 +2,8 @@
 
 These NFT Licenses were written by [Gabriel Shapiro](https://twitter.com/lex_node) & [Stuart Smolen](https://bsvlaw.com/team/stuart-smolen-partner/) with the support and collaboration of [Rarible](https://rarible.com) and are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). 
 
+**THESE ARE NOT PERFECT AND JUST A START TO FURTHER DIALOGUE AND EXPERIMENTATION. WE ENCOURAGE OTHERS TO CREATE ISSUES TO SUGGEST IMPROVEMENTS, FORK & PROPOSE MERGES, AND GENERALLY DISCUSS & SUGGEST IMPROVEMENTS FOR THE BENEFIT OF THE FULL RARIBLE AND NFT COMMUNITY**
+
 We have taken note of recent discussions in the NFT community regarding intellectual property issues and guarantees of the uniqueness and long-term value of NFTs. Although there is no one-size-fits-all solution to how NFTs will be used, we believe in empowering our users to create digital collectibles designed to be *rare* and have lasting value. 
 
 To that end, we are pleased to introduce version 1.0 of the Rarible Standard Collectibles Sale and License Agreement, which is designed to offer artists and collectors a new, standardized option for tying the intellectual property embodied in a digital collectible to the NFT representing that collectible on Ethereum. 
