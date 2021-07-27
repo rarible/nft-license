@@ -54,7 +54,7 @@ Each Collector will not, and agrees not to cause or allow any other person to:
 
   3. use the Collectible Images in any way that exceeds the scope of the license to the Collectible Images;
   
-  4. usetheCollectible Imageswithmaterialthatviolatesany third-party rights, or otherwise take any action in connection with the Collectible Images that infringes the intellectual property or other rights of any person or entity, such as the moral rights of the creator of the Collectible Images or the rights of any person who, or any person whose property, appears in or is associated with the Collectible Images;
+  4. use the Collectible Images with material that violates any third-party rights, or otherwise take any action in connection with the Collectible Images that infringes the intellectual property or other rights of any person or entity, such as the moral rights of the creator of the Collectible Images or the rights of any person who, or any person whose property, appears in or is associated with the Collectible Images;
   
   5. register, or apply to register, or otherwise claim rights in, a trademark, design mark, service mark, sound mark, or tradename, that uses any Collectible Image (in whole or in part); or claim ownership rights in an attempt to prevent any third party from using a Collectible Image;
   
