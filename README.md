@@ -1,6 +1,6 @@
-# ABOUT THE RARIBLE NFT LICENSES
+# ABOUT THE NFT LICENSES
 
-These NFT Licenses were written by [Gabriel Shapiro](https://twitter.com/lex_node) & [Stuart Smolen](https://bsvlaw.com/team/stuart-smolen-partner/) with the support and collaboration of [Rarible](https://rarible.com) and are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+These NFT Licenses were originally written by [Gabriel Shapiro](https://twitter.com/lex_node) & [Stuart Smolen](https://bsvlaw.com/team/stuart-smolen-partner/) with the support and collaboration of [Rarible](https://rarible.com/) and are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 **THESE ARE NOT PERFECT AND JUST A START TO FURTHER DIALOGUE AND EXPERIMENTATION. WE ENCOURAGE OTHERS TO CREATE ISSUES TO SUGGEST IMPROVEMENTS, FORK & PROPOSE MERGES, AND GENERALLY DISCUSS & SUGGEST IMPROVEMENTS FOR THE BENEFIT OF THE FULL RARIBLE AND NFT COMMUNITY**
 
@@ -26,7 +26,7 @@ Under the License, the artist retains ownership of inviolable moral rights and o
 
 The License comes in two varieties—exclusive and non-exclusive:
 
-*   In “Variant E” of the License—the “exclusive license” variant—the NFT Creator agrees not to grant further licenses to the image except tied to the original NFT or batch of NFTs. Thus, the effect of Variant E is similar for practical purposes (but not legally identical to) a transfer of ownership. This version of the license limits an NFT collector's use of the image significantly and is not suitable if the intent is to allow the collector to generate a commercial benefit from the use of the image beyond re-selling the NFT at a profit.
+*   In “Variant E” of the License—the “exclusive license” variant—the NFT Creator agrees not to grant further licenses to the image except tied to the original NFT or batch of NFTs. Thus, the effect of Variant E is similar for practical purposes (but not legally identical to) a transfer of ownership. However this version of the license also limits an NFT collector's use of the image significantly and is not suitable if the intent is to allow the collector to generate a commercial benefit from the use of the image beyond attempting to on-sell the NFT at a profit.
 *   In “Variant NE” of the License—the “non-exclusive license” variant—the artist makes no commitment not to engage in further licensing of the image; thus, under Variant NE, the artist could mint additional NFTs tied to the image, sell the image on t-shirts, and make other commercial and non-commercial licenses of the image.
 *   In theory, Collectibles sold under Variant E of the License should be considered more “rare” and potentially more valuable. Which variant is used affects what other uses the NFT Creator can make of the image in the future and may impact the value of the Collectible.
 
